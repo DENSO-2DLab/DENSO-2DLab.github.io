@@ -1,5 +1,4 @@
-theme: jekyll-theme-minimal
 title: DENSO 2DLab 
 description: Unofficial source repository for DENSO robots
 logo: /assets/img/logo.png
-show_downloads: true
+theme: jekyll-theme-minimal
