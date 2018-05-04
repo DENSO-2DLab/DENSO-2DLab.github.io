@@ -14,8 +14,9 @@ This portal is built by robot users for robot users. There are different ways to
 - Submitting any bugs or enhancements on the issue section.
 - Fixing bugs or adding new features by creating a pull request. 
 
-> <p>Note:</p>
+> <p><b>Note:</b></p>
 > DENSO 2DLab is not officially supported by DENSO Robotics. Programming support is out of warranty. 
+
 ___
 
 ## Repository Contents
