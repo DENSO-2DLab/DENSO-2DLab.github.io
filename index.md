@@ -25,36 +25,27 @@ ___
 
 ### Drivers
 
-- **RC8 - Robotiq FT Force Sensor:** 
-  - [Release Page](https://github.com/DENSO-2DLab/RC8_Driver-Robotiq_FT_Force_Sensor/releases) - [Repo Page](https://github.com/DENSO-2DLab/RC8_Driver-Robotiq_FT_Force_Sensor) - [Submit an issue](https://github.com/DENSO-2DLab/RC8_Driver-Robotiq_FT_Force_Sensor/issues)
-- **RC8 - Robotiq 2-Finger Gripper:** 
-  - [Release Page](https://github.com/DENSO-2DLab/RC8_Driver-Robotiq_2-Finger_Gripper/releases) - [Repo Page](https://github.com/DENSO-2DLab/RC8_Driver-Robotiq_2-Finger_Gripper) - [Submit an issue](https://github.com/DENSO-2DLab/RC8_Driver-Robotiq_2-Finger_Gripper/issues)
-- **RC8 - ATI-AI Gamma FT Force Sensor:** 
-  - [Release Page](https://github.com/DENSO-2DLab/RC8_Driver-ATI_AI_Gamma/releases) - [Repo Page](https://github.com/DENSO-2DLab/RC8_Driver-ATI_AI_Gamma) - [Submit an issue](https://github.com/DENSO-2DLab/RC8_Driver-ATI_AI_Gamma/issues)
-- **RC8 - Zimmer 6000 Series:** 
-  - [Release Page](https://github.com/DENSO-2DLab/RC8_Driver-Zimmer_6000_Series/releases) - [Repo Page](https://github.com/DENSO-2DLab/RC8_Driver-Zimmer_6000_Series) - [Submit an issue](https://github.com/DENSO-2DLab/RC8_Driver-Zimmer_6000_Series/issues)
+- **[RC8 - Robotiq FT Force Sensor](https://github.com/DENSO-2DLab/RC8_Driver-Robotiq_FT_Force_Sensor)**
+- **[RC8 - Robotiq 2-Finger Gripper](https://github.com/DENSO-2DLab/RC8_Driver-Robotiq_2-Finger_Gripper)**
+- **[RC8 - ATI-AI Gamma FT Force Sensor](https://github.com/DENSO-2DLab/RC8_Driver-ATI_AI_Gamma)**
+- **[RC8 - Zimmer 6000 Series](https://github.com/DENSO-2DLab/RC8_Driver-Zimmer_6000_Series)**
 
 ------
 
 ### ORiN
 
-- **RC8 - Getting Started:** 
-  - [Release Page](https://github.com/DENSO-2DLab/ORiN_RC8-Getting_Started/releases) - [Submite an issue](https://github.com/DENSO-2DLab/ORiN_RC8-Getting_Started/issues)
-- **RC7 - Getting Started:** 
-  - [Release Page](https://github.com/DENSO-2DLab/ORiN_RC7-Getting_Started/releases) - [Submit an issue](https://github.com/DENSO-2DLab/ORiN_RC7-Getting_Started/issues)
+- **[RC7 - Getting Started](https://github.com/DENSO-2DLab/ORiN_RC7-Getting_Started)**
+- **[RC8 - Getting Started](https://github.com/DENSO-2DLab/ORiN_RC8-Getting_Started)**
 
 ------
 
 ### Functions/Options
 
-- **RC8 - Easy Work PACScript Function:** 
-  - [Release Page](https://github.com/DENSO-2DLab/RC8_Function-EasyWork/releases) - [Submit an issue](https://github.com/DENSO-2DLab/RC8_Function-EasyWork/issues)
-- **RC8 - OPC UA:** 
-  - [Release Page](https://github.com/DENSO-2DLab/RC8_Option-OPC_UA_Server/releases) - [Submit an issue](https://github.com/DENSO-2DLab/RC8_Option-OPC_UA_Server/issues)
-
+- **[RC8 - Easy Work PACScript Function](https://github.com/DENSO-2DLab/RC8_Function-EasyWork)** 
+- **[RC8 - OPC UA](https://github.com/DENSO-2DLab/RC8_Option-OPC_UA_Server)** 
+  
 ------
 
 ### Wincaps III
 
-- **PAC/PCS - Notepad Language Definition Files:** 
-  - [Release Page](https://github.com/DENSO-2DLab/RnD-PC_Notepad_Language_Definition_Files/releases) - [Submit an issue](https://github.com/DENSO-2DLab/RnD-PC_Notepad_Language_Definition_Files/issues)
+- **[PAC/PCS - Notepad Language Definition Files](https://github.com/DENSO-2DLab/RnD-PC_Notepad_Language_Definition_Files)**
