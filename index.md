@@ -1,15 +1,17 @@
 ---
 layout: default
-title: DENSO Robotics 2DLab
+title: DENSO Robotics 2DLab Project
 ---
 
-# Welcome to the 2DLab Portal
+# Welcome to the DENSO Robotics GitHub Lab!
 
 The purpose of this organization is to provide resources that DENSO Robotics programmers can use to get a jump start on their specific projects or applications. 
 
 **Contributing**
 
-This portal is built by robot users for robot users. There are different ways to contribute: 
+This portal is built by robot users for robot users. All of the projects on this site are posted under the MIT License. 
+
+There are different ways to contribute: 
 - Suggesting a Repository to add to the portal.
 - Submitting any bugs or enhancements on the issue section.
 - Fixing bugs or adding new features by creating a pull request. 
