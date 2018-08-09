@@ -27,7 +27,7 @@ ___
 
 - **[RC8 - Robotiq FT Force Sensor](https://github.com/DENSO-2DLab/RC8_Driver-Robotiq_FT_Force_Sensor)**
 - **[RC8 - Robotiq 2-Finger Gripper](https://github.com/DENSO-2DLab/RC8_Driver-Robotiq_2-Finger_Gripper)**
-- **[RC8 - ATI-AI Gamma FT Force Sensor](https://github.com/DENSO-2DLab/RC8_Driver-ATI_AI_Gamma)**
+- **[RC8 - ATI FT Force Sensor](https://github.com/DENSO-2DLab/RC8_Driver-ATI_AI_Gamma)**
 - **[RC8 - Zimmer 6000 Series](https://github.com/DENSO-2DLab/RC8_Driver-Zimmer_6000_Series)**
 
 ------
